@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\massivi\massiv4\bin\Debug\net6.0\massiv4.exe
+C:\Users\User\source\repos\massivi\massiv4\bin\Debug\net6.0\massiv4.deps.json
+C:\Users\User\source\repos\massivi\massiv4\bin\Debug\net6.0\massiv4.runtimeconfig.json
+C:\Users\User\source\repos\massivi\massiv4\bin\Debug\net6.0\massiv4.dll
+C:\Users\User\source\repos\massivi\massiv4\bin\Debug\net6.0\ref\massiv4.dll
+C:\Users\User\source\repos\massivi\massiv4\bin\Debug\net6.0\massiv4.pdb
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.AssemblyInfo.cs
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.dll
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\ref\massiv4.dll
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.pdb
+C:\Users\User\source\repos\massivi\massiv4\obj\Debug\net6.0\massiv4.genruntimeconfig.cache

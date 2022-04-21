@@ -18,6 +18,6 @@ static class Program
         }
         Console.WriteLine(min);
         Console.ReadLine();
-        Console.WriteLine(" ");
+        Console.WriteLine("я тут");
     }
 }

@@ -28,6 +28,6 @@ static class Program
         }
         Console.WriteLine($"\nСумма четных чисел  = {sum}");
         Console.ReadLine();
-
+        Console.ReadLine();
     }
 }
